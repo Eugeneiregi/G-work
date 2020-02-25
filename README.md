@@ -6,7 +6,7 @@
 
 ## Project Description
 
-This is a group project. The name is ```G-work```.
+This is a group project. The name is ```G-work``` Check us out.
 
 ## Technologies used
 
