@@ -15,7 +15,8 @@ The project is authored as a group, with six authors namely:
 6.Elvis
 ## Project Description
 
-This is a group project. The name is ```G-work``` Check us out
+This is a group project. The name is ```G-work```!
+
 ## Technologies used
 - Html 
 - Css
