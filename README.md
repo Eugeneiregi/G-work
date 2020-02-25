@@ -24,6 +24,7 @@ This is a group project. The name is ```G-work``` Check us out
 
 ## Technical requirements
 - One needs to have access to the internet And git hub
+-use this link https://github.com/Eugeneiregi/G-work/
 
 ## Contact Details
 
